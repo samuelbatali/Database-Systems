@@ -11,3 +11,10 @@ to the running program
 
 Works like MangoDB, Firestore, or Atlass, but it's lightweight <br>
 Convenient for small projects
+
+
+You must know:
+1. Python
+2. NoSQL 
+3. JSON
+4. Object Oriented Programming
